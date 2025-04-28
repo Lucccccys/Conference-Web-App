@@ -47,8 +47,8 @@ The system provides an integrated portal for conference organizers to efficientl
 1. **Clone the Repository**
 
    ```bash
-   git clone [your-repo-link]
-   cd [project-folder]
+   git clone https://github.com/Lucccccys/Conference-Web-App
+   cd conference_app
    ```
 
 2. **Database Setup**
