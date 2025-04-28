@@ -74,7 +74,7 @@ The system provides an integrated portal for conference organizers to efficientl
 
    - Start your local server (e.g., XAMPP, MAMP).
    - Place the project folder inside your server's root directory (`htdocs` for XAMPP).
-   - Access the application via `http://localhost/[your-folder]/conference.php`.
+   - Access the application via `http://localhost/conference_app/conference.php`.
 
 ## Notes
 
